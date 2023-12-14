@@ -15,7 +15,10 @@
 
 ```bash
 cd cmd
-go run main.go
 ```
 
 2. Запустите проект:
+
+```bash
+go run main.go
+```
